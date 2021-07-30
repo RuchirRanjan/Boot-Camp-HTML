@@ -1,4 +1,5 @@
 {
     "git.ignoreLimitWarning": true,
-    "files.autoSave": "afterDelay"
+    "files.autoSave": "afterDelay",
+    "editor.suggest.snippetsPreventQuickSuggestions": false
 }
